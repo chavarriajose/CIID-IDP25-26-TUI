@@ -2,12 +2,8 @@
 
 > Two cubes you rotate to mix a mood and a genre, and discover new music.
 
-![Cubit cover image](images/cover.jpg)
+![Cubit cover image](images/cubitHero_001.png)
 <!-- Upload a picture called cover.jpg to the images folder and it will appear here. -->
-
-**Course:** [Tangible User Interfaces 2025/26](https://www.ciid.dk/idp-courses/tangible-user-interface-2025-26), Interaction Design Programme, Copenhagen Institute of Interaction Design (CIID)
-**Video:** [Watch on Vimeo](https://vimeo.com/1176221852)
-**Project page:** [Cubit on ciid.dk](https://www.ciid.dk/idp-projects/cubit)
 
 ## Team
 
