@@ -5,7 +5,7 @@ This guide explains how to add your files to this repository using only the GitH
 ## Before you start
 
 1. Create a free account on [github.com](https://github.com) if you don't have one.
-2. Send your GitHub username to your teacher, so you can be added as a collaborator.
+2. Send your GitHub username to Jose Chavarria over slack or email, so you can be added as a collaborator.
 3. Accept the invitation you will receive by email.
 
 ## Uploading files
