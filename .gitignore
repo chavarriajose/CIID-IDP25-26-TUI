@@ -1,0 +1,33 @@
+# ---------------------------------------------------------------
+# Files that should NEVER be uploaded to this repository
+# ---------------------------------------------------------------
+
+# Secrets: API keys, passwords, Wi-Fi credentials
+# (keep a copy with fake values, for example secrets.example.h, to show the format)
+secrets.h
+arduino_secrets.h
+config.h
+.env
+*.env
+!*.example.env
+!.env.example
+credentials.json
+*.key
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node
+node_modules/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
