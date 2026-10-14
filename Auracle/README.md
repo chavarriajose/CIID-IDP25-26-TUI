@@ -2,7 +2,7 @@
 
 > A music device that uses oracle cards to choose your song of the day.
 
-![Auracle cover image](images/cover.jpg)
+![Auracle cover image](images/auracleHero_001.png)
 <!-- Upload a picture called cover.jpg to the images folder and it will appear here. -->
 
 **Course:** [Tangible User Interfaces 2025/26](https://www.ciid.dk/idp-courses/tangible-user-interface-2025-26), Interaction Design Programme, Copenhagen Institute of Interaction Design (CIID)
