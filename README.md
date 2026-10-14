@@ -1,6 +1,6 @@
 # Tangible User Interfaces 2025/26
 
-Open source projects from the **Tangible User Interfaces** course of the [Interaction Design Programme](https://www.ciid.dk/idp-courses/tangible-user-interface-2025-26) at the **Copenhagen Institute of Interaction Design (CIID)**, February 16 to March 27, 2026.
+Open source projects from the **Tangible User Interfaces** course of the [Interaction Design Programme](https://www.ciid.dk/idp-courses/tangible-user-interface-2025-26) at the **Copenhagen Institute of Interaction Design (CIID)**, February 2026.
 
 ## About the course
 
