@@ -8,7 +8,7 @@ Large language models can do remarkable things, but most of the time we talk to 
 
 Each team started from a familiar app experience and turned it into a tangible artifact, prototyped with Arduino.
 
-**Faculty:** Jose Chavarria and Massimo Banzi
+**Faculty:** Massimo Banzi and Jose Chavarría
 
 ## Projects
 
