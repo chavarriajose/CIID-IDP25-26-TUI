@@ -2,12 +2,8 @@
 
 > A handheld device with magnetic lenses that helps children explore the world with AI.
 
-![Curio cover image](images/curioHer_001.png)
+![Curio cover image](images/curioHero_001.png)
 <!-- Upload a picture called cover.jpg to the images folder and it will appear here. -->
-
-**Course:** [Tangible User Interfaces 2025/26](https://www.ciid.dk/idp-courses/tangible-user-interface-2025-26), Interaction Design Programme, Copenhagen Institute of Interaction Design (CIID)
-**Video:** [Watch on Vimeo](https://vimeo.com/1176196472)
-**Project page:** [Curio on ciid.dk](https://www.ciid.dk/idp-projects/curio)
 
 ## Team
 
