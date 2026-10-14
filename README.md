@@ -39,4 +39,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for a step by step guide. No command line
 Every project in this repository is the intellectual property of the members of its team, and is shared under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. See [LICENSE.md](LICENSE.md).
 
 In short: you can use, remix and build on these projects for any purpose, as long as you **give credit to the authors** of the project you use. Each project README includes a ready to copy credit line.
-# CIID-IDP25-26-TUI
